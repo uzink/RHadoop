@@ -1,3 +1,3 @@
 # RHadoop
-Add R to Hortonworks seandbox
+Add R to Hortonworks sandbox
 
